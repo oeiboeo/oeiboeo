@@ -29,6 +29,15 @@ Saya adalah seorang penggiat teknologi, pengguna Linux, dan pembuat catatan digi
 
 ---
 
+### 📜 Kebun Digital & Papan Eksplorasi
+
+Ruang terbuka untuk membaca catatan teknis, panduan eksplorasi **Debian GNU/Linux**, serta memantau progres eksperimen perangkat lunak bebas (*FOSS*):
+
+* **📚 [Arsip Jejak Pikiran & Catatan Digital](https://github.com)** — Kumpulan tulisan teknis, panduan `apt`, skrip otomatisasi Bash, dan kurasi aplikasi FOSS.
+* **🗂️ [Papan Kerja & Peta Belajar (Projects)](https://github.com)** — Papan Kanban terbuka untuk melacak gagasan, draf tulisan, dan eksperimen sistem yang sedang dikerjakan.
+
+> *"Merawat catatan kecil hari ini sebagai kompas eksplorasi di masa mendatang."*
+
 <div align="center">
   <sub><i>"Menulis kode seperti mengetik di atas mesin tik tua: teliti, terstruktur, dan bermakna."</i></sub>
 </div>
