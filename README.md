@@ -33,8 +33,8 @@ Saya adalah seorang penggiat teknologi, pengguna Linux, dan pembuat catatan digi
 
 Ruang terbuka untuk membaca catatan teknis, panduan eksplorasi **Debian GNU/Linux**, serta memantau progres eksperimen perangkat lunak bebas (*FOSS*):
 
-* **📚 [Arsip Jejak Pikiran & Catatan Digital](https://github.com)** — Kumpulan tulisan teknis, panduan `apt`, skrip otomatisasi Bash, dan kurasi aplikasi FOSS.
-* **🗂️ [Papan Kerja & Peta Belajar (Projects)](https://github.com)** — Papan Kanban terbuka untuk melacak gagasan, draf tulisan, dan eksperimen sistem yang sedang dikerjakan.
+* **📚 [Arsip Jejak Pikiran & Catatan Digital](https://github.com/oeiboeo/catatan-digital)** — Kumpulan tulisan teknis, panduan `apt`, skrip otomatisasi Bash, dan kurasi aplikasi FOSS.
+* **🗂️ [Papan Kerja & Peta Belajar (Projects)](https://github.com/oeiboeo?tab=projects)** — Papan Kanban terbuka untuk melacak gagasan, draf tulisan, dan eksperimen sistem yang sedang dikerjakan.
 
 > *"Merawat catatan kecil hari ini sebagai kompas eksplorasi di masa mendatang."*
 
